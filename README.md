@@ -4,5 +4,5 @@ A Hive game GUI developed using wxpython with AI included. Run the game on a scr
 Needed: Python 2.7
         wxpython >=2.8
 
-Run program with command:
+Run program with command:\n
 "python run.py"
